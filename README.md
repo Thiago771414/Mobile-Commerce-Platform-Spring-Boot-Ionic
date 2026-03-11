@@ -71,7 +71,7 @@ External services:
 ## Login Screen
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/loginIonic.png" width="90">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/loginIonic.png" width="180">
 </p>
 
 ---
@@ -79,7 +79,7 @@ External services:
 ## Product Catalog
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/categoriasIonic.png" width="90">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/categoriasIonic.png" width="180">
 </p>
 
 ---
@@ -87,14 +87,17 @@ External services:
 ## Menu
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/menuIonic.png" width="90">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/menuIonic.png" width="180">
 </p>
 
 ---
+
 ## Profile
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/PerfilIonic.png" width="90">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/PerfilIonic.png" width="180">
 </p>
+
 ---
 
 # Key Features
