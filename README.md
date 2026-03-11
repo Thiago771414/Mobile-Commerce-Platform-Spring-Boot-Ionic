@@ -17,7 +17,7 @@ The project simulates a real-world shopping application where users can browse p
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/serverExpress.png" width="900">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/diagramaIonic.png" width="900">
 </p>
 
 ---
