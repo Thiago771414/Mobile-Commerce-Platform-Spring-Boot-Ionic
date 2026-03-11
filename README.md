@@ -52,6 +52,7 @@ The platform implements a complete user journey:
 
 # Architecture
 
+```bash
 Mobile App (Ionic / Angular)  
 ↓  
 REST API (Spring Boot)  
@@ -63,7 +64,7 @@ External services:
 • Amazon S3 for image storage  
 • SMTP email notifications  
 • JWT authentication  
-
+```
 ---
 
 # Screenshots
