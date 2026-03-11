@@ -1,9 +1,5 @@
 # Mobile Commerce Platform – Spring Boot + Ionic
 
-Full-stack mobile commerce platform demonstrating how a mobile application interacts with a backend API to handle authentication, product browsing, cart management, and order processing.
-
-The project simulates a real-world shopping application where users can browse products, manage their profile, and place orders through a mobile interface.
-
 ![Java](https://img.shields.io/badge/Backend-Java-blue)
 ![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-green)
 ![Ionic](https://img.shields.io/badge/Mobile-Ionic-blue)
@@ -13,6 +9,10 @@ The project simulates a real-world shopping application where users can browse p
 ![Storage](https://img.shields.io/badge/Storage-AWS%20S3-yellow)
 ![API](https://img.shields.io/badge/API-REST-green)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)
+
+Full-stack mobile commerce platform demonstrating how a mobile application interacts with a backend API to handle authentication, product browsing, cart management, and order processing.
+
+The project simulates a real-world shopping application where users can browse products, manage their profile, and place orders through a mobile interface.
 
 ---
 
