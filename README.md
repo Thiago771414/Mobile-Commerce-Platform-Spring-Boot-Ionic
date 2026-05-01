@@ -71,33 +71,18 @@ External services:
 
 ## Login Screen
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/loginIonic.png" width="180">
-</p>
+# Application Screens (Ionic)
 
----
+<div align="center">
 
-## Product Catalog
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/categoriasIonic.png" width="180">
-</p>
+| Login Screen | Product Catalog | Menu | Profile |
+| :---: | :---: | :---: | :---: |
+| <a href="https://youtube.com/shorts/KH83T27-ztQ"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/loginIonic.png" width="180"></a> | <a href="https://youtube.com/shorts/KH83T27-ztQ"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/categoriasIonic.png" width="180"></a> | <a href="https://youtube.com/shorts/KH83T27-ztQ"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/menuIonic.png" width="180"></a> | <a href="https://youtube.com/shorts/KH83T27-ztQ"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/PerfilIonic.png" width="180"></a> |
 
----
+**Click on the image above to watch the demonstration**
 
-## Menu
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/menuIonic.png" width="180">
-</p>
-
----
-
-## Profile
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/PerfilIonic.png" width="180">
-</p>
+</div>
 
 ---
 
